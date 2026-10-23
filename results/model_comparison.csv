@@ -1,0 +1,3 @@
+Model,MAE (°C),RMSE (°C),Test samples
+XGBoost,2.00,2.44,23
+LSTM,2.36,2.94,22

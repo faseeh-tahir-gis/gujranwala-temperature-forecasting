@@ -1,0 +1,12 @@
+Feature,Importance
+day_of_year,0.248969
+Tmax_lag1,0.191750
+Tmean_lag1,0.114920
+Tmax_roll3,0.093499
+Rainfall_lag1,0.071218
+Humidity_lag1,0.061548
+Tmax_roll7,0.058649
+Rainfall_roll3,0.043000
+Tmin_lag1,0.042305
+Rainfall_roll7,0.041373
+Rained_yesterday,0.032769
